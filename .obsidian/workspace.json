@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/O Mínimo que Você Precisa Saber de JavaScript - Parte 2.md",
+                "file": "React/Layout.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "O Mínimo que Você Precisa Saber de JavaScript - Parte 2"
+              "title": "Layout"
             }
           }
         ],
@@ -201,10 +201,12 @@
   },
   "active": "1d5e9ecac87c7ab6",
   "lastOpenFiles": [
+    "JavaScript/O Mínimo que Você Precisa Saber de JavaScript - Parte 2.md",
+    "React/Layout.md",
+    "React",
     "JavaScript/JavaScript.md",
     "Solid/SOLID.md",
     "JavaScript/O Minímo que você precisa saber de JavaScript.md",
-    "JavaScript/O Mínimo que Você Precisa Saber de JavaScript - Parte 2.md",
     "Typescript/Typescript.md",
     "Typescript/Princípios Intermediários de OOP em TypeScript.md",
     "JavaScript",
