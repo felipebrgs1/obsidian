@@ -5,20 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Solid  ",
       "color": {
         "a": 1,
-        "rgb": 4078762
+        "rgb": 12857649
       }
     },
     {
-      "query": "path:OOP  ",
+      "query": "path:Typescript  ",
       "color": {
         "a": 1,
-        "rgb": 1417803
+        "rgb": 3242182
       }
     }
   ],
@@ -29,9 +29,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.268166089965398,
-  "repelStrength": 9.30795847750865,
-  "linkStrength": 1,
-  "linkDistance": 132,
-  "scale": 1.4019828977761042,
+  "repelStrength": 8.82352941176471,
+  "linkStrength": 0.683391003460208,
+  "linkDistance": 146,
+  "scale": 1.0000000000000029,
   "close": true
 }

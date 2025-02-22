@@ -11,27 +11,56 @@
             "id": "7aa24f5201014e6e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid/SOLID.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SOLID"
+            }
+          },
+          {
+            "id": "1234e4cf8651b067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid/SOLID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID"
+            }
+          },
+          {
+            "id": "bfcd9c9983f75939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Typescript.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Typescript"
+            }
+          },
+          {
+            "id": "1d5e9ecac87c7ab6",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "b92eb5b3ebf2e549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solid/Interface Segregation Principle (ISP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interface Segregation Principle (ISP)"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,18 +209,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7aa24f5201014e6e",
+  "active": "e0b166c8e281d4d1",
   "lastOpenFiles": [
+    "Typescript/Typescript.md",
+    "Typescript/Princípios de OOP em TypeScript.md",
+    "Typescript/Princípios Intermediários de OOP em TypeScript.md",
+    "Typescript/OOP Avançado em TypeScript.md",
     "OOP/Java.md",
-    "OOP/Typescript.md",
     "Solid/Dependency Inversion Principle (DIP).md",
-    "OOP",
     "Solid/SOLID.md",
     "Solid/Interface Segregation Principle (ISP).md",
-    "README.md",
     "Solid/Liskov Substitution Principle (LSP).md",
     "Solid/Single Responsibility Principle (SRP).md",
     "Solid/Princípio Aberto Fechado (OCP).md",
+    "Typescript",
+    "README.md",
     "Single Responsibility Principle (SRP).md",
     "Solid",
     "Untitled 1.md",
