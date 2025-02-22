@@ -1,4 +1,4 @@
-##### A Programação Orientada a Objetos (OOP) é um paradigma que organiza o código em objetos que representam entidades do mundo real. Em TypeScript, esses princípios podem ser implementados de forma clara e tipada. A seguir, um resumo dos principais conceitos:
+###### A Programação Orientada a Objetos (OOP) é um paradigma que organiza o código em objetos que representam entidades do mundo real. Em TypeScript, esses princípios podem ser implementados de forma clara e tipada. A seguir, um resumo dos principais conceitos:
 
 ---
 

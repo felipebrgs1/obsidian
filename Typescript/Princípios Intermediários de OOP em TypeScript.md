@@ -1,4 +1,4 @@
-##### Este resumo explora os conceitos fundamentais da Programação Orientada a Objetos com uma abordagem intermediária, utilizando recursos avançados do TypeScript. Aqui, veremos como aplicar de forma robusta encapsulamento, herança (e composição), polimorfismo e abstração para construir aplicações escaláveis e de fácil manutenção.
+###### Este resumo explora os conceitos fundamentais da Programação Orientada a Objetos com uma abordagem intermediária, utilizando recursos avançados do TypeScript. Aqui, veremos como aplicar de forma robusta encapsulamento, herança (e composição), polimorfismo e abstração para construir aplicações escaláveis e de fácil manutenção.
 
 ---
 

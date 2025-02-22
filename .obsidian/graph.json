@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 3242182
       }
+    },
+    {
+      "query": "path:JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 15784783
+      }
     }
   ],
   "collapse-display": true,
@@ -28,9 +35,9 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.268166089965398,
-  "repelStrength": 8.82352941176471,
-  "linkStrength": 0.683391003460208,
+  "centerStrength": 0.275086505190311,
+  "repelStrength": 8.26989619377163,
+  "linkStrength": 1,
   "linkDistance": 146,
   "scale": 1.0000000000000029,
   "close": true

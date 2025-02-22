@@ -1,4 +1,4 @@
-##### Este resumo aborda técnicas e práticas avançadas de Programação Orientada a Objetos em TypeScript, explorando desde os recursos mais recentes do ECMAScript até padrões de design que promovem código modular, escalável e fortemente tipado.
+###### Este resumo aborda técnicas e práticas avançadas de Programação Orientada a Objetos em TypeScript, explorando desde os recursos mais recentes do ECMAScript até padrões de design que promovem código modular, escalável e fortemente tipado.
 
 ---
 
