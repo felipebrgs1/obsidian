@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "3e528bf3bac14d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbe329098059ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7462b0ac3fe29621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid/Single Responsibility Principle (SRP).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Single Responsibility Principle (SRP)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ac9fa53ac8bcc60",
+    "type": "split",
+    "children": [
+      {
+        "id": "51567a44f98c4a2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0b166c8e281d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed9837e187572063",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2159f174bce55d0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a2acb8e429dd750",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1f33c23dc5dc2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57950b049c0c60ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solid/Princípio Aberto Fechado (OCP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Princípio Aberto Fechado (OCP)"
+            }
+          },
+          {
+            "id": "eb128250ebf9e4cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Solid/Princípio Aberto Fechado (OCP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Princípio Aberto Fechado (OCP)"
+            }
+          },
+          {
+            "id": "b0d3721d1dfeac88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2f53fb16b2e51b64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Solid/Princípio Aberto Fechado (OCP).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Princípio Aberto Fechado (OCP)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e0b166c8e281d4d1",
+  "lastOpenFiles": [
+    "README.md",
+    "Solid/Princípio Aberto Fechado (OCP).md",
+    "Solid/SOLID.md",
+    "Solid/Single Responsibility Principle (SRP).md",
+    "Single Responsibility Principle (SRP).md",
+    "Solid",
+    "Untitled 1.md",
+    "Welcome.md"
+  ]
+}
