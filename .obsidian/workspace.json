@@ -11,14 +11,10 @@
             "id": "7462b0ac3fe29621",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solid/Single Responsibility Principle (SRP).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Single Responsibility Principle (SRP)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -170,12 +166,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0b166c8e281d4d1",
+  "active": "7462b0ac3fe29621",
   "lastOpenFiles": [
     "README.md",
-    "Solid/Princípio Aberto Fechado (OCP).md",
+    "Solid/Liskov Substitution Principle (LSP).md",
     "Solid/SOLID.md",
     "Solid/Single Responsibility Principle (SRP).md",
+    "Solid/Princípio Aberto Fechado (OCP).md",
     "Single Responsibility Principle (SRP).md",
     "Solid",
     "Untitled 1.md",
